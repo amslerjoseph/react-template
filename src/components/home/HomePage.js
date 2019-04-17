@@ -7,7 +7,7 @@ const HomePage = () => (
 
     <p>built by Joe Amsler</p>
 
-    <Link to="/" className="btn btn-primary btn-lg">
+    <Link to="/about" className="btn btn-primary btn-lg">
       Learn More
     </Link>
   </div>
